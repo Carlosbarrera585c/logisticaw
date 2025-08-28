@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+.general {
+    background-color: #08C9F1;
+    height:800px;
+    width: 700px;
+}
+.xprogramar {
+    background-color: red;
+    position: relative;
+    float: left;
+    height: 40%;
+    width: 40%;
+}
+.programacion {
+    background-color: gray;
+    position: relative;
+	float: right;
+    top: auto;
+	height: 100%;	
+    width: 60%;
+}
+.programado {
+    background-color: green;
+    position: relative;
+    float: left;
+    height: 30%;
+    width: 40%;
+}
+.proceso {
+    background-color: orange;
+    position: relative;
+    float: left;
+    height: 30%;
+    width: 40%;
+}
